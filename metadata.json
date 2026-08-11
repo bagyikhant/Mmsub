@@ -1,0 +1,6 @@
+{
+  "name": "Channel Myanmar",
+  "description": "Discover movies, TV series, Asian dramas, and anime with Burmese subtitles, high quality streams, download links, and watchlist management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
